@@ -9,7 +9,7 @@ Download the repository and copy the laf.h file to your project.
 
 bash:
 ```[bash]
-git clone https://github.com/rekubrekowski/laf
+git clone https://github.com/jakubrekowski/laf
 cd laf/src
 cp laf.h ~/path/to-your/project/laf.h
 touch ~/path/to-your/project/functions.laf.h
@@ -23,7 +23,7 @@ c++:
 ```
 
 ### how to use
-[learn syntax](https://github.com/rekubrekowski/laf/blob/master/syntax.md)
+[learn syntax](https://github.com/jakubrekowski/laf/blob/master/syntax.md)
 
 ## donate
 
