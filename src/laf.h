@@ -113,7 +113,7 @@ namespace laf_console {
 	void info() {
 		cout << " :::            :::        :::::::::: \n :+:          :+: :+:      :+:         \n +:+         +:+   +:+     +:+          \n +#+        +#++:++#++:    :#::+::#      \n +#+        +#+     +#+    +#+            \n #+#        #+#     #+#    #+#             \n ########## ###     ###    ###              \n\n";
 
-		cout << "Copyright © 2020 by Jakub Rekowski\nhttps://github.com/rekubrekowski/laf\n\nSupport me with PayPal and support this project\nhttps://www.paypal.me/jakubReq\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nhttp://creativecommons.org/licenses/by-sa/4.0/";
+		cout << "Copyright © 2020 by Jakub Rekowski\nhttps://github.com/jakubrekowski/laf\n\nSupport me with PayPal and support this project\nhttps://www.paypal.me/jakubReq\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nhttp://creativecommons.org/licenses/by-sa/4.0/";
 
 		cout << endl << endl;
 	}
